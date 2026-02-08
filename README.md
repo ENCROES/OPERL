@@ -6,11 +6,6 @@ Provide a project description, and the agent builds a structured knowledge base 
 
 ## Quick Start
 
-```bash
-git clone https://github.com/<YOUR-ORG>/obsidian-vault-template.git my-vault
-cd my-vault
-```
-
 In Claude Code:
 
 ```
